@@ -9,3 +9,22 @@ The chatbot will learn information that the user inputs.
 The server for the chatbot is set up using the 'Flask' framework in Python.
 The Flask framework creates a server, so the client can send requests to the server, and the server can respond to the client.
 The Artificial Intelligence of the project is built using NLTK for natural language processing such as parsing the client's message into tokens looking for keywords, so it can understand what the user is asking/talking about.
+
+
+**Getting Started**
+
+Download chatbot.py and index.html files, and put them in your code editor of your choice.
+
+**Prerequisites**
+
+Code Editor of your Choice
+
+Python 3 https://www.python.org/
+
+Flask https://pypi.org/project/Flask/
+
+SQLite3 https://pypi.org/project/SQLite3-0611/
+
+Transformers https://pypi.org/project/transformers/
+
+NLTK https://pypi.org/project/nltk/

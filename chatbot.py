@@ -6,7 +6,6 @@ import nltk
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 from transformers import GPT2LMHeadModel, GPT2Tokenizer
-#lucas is a bitch.
 
 server = Flask(__name__)
 nltk.download('punkt')

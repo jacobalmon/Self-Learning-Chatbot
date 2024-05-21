@@ -1,4 +1,4 @@
-**Self Learning Chatbot** (Not Finished Yet)
+**Self Learning Chatbot** 
 
 Self Learning Chatbot that allows users to talk to and learn from the users.
 
